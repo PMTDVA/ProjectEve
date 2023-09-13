@@ -18,7 +18,7 @@ def imagegen():
     url = "https://api.openai.com/v1/images/generations"
 
 
-    api_key = "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"
+    api_key = "YOUR API KEY HERE!"
 
     headers = {
         "Content-Type": "application/json",
